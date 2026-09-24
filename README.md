@@ -2,13 +2,13 @@
 
 > **Live Application**: [LIVE APP URL]  
 > **Repository**: [backendbyMel/DisciplineTrackingSystem](https://github.com/backendbyMel/DisciplineTrackingSystem)
-> **Tech Stack**: Python, Django, SQLite, PyInstaller
+**Tech Stack**: Python, Django, SQLite, PyInstaller
 
 ---
 
 ## 1. Executive Summary & Problem Statement
 
-Educational and administrative institutions require reliable, centralized systems to log, track, and manage student disciplinary records [5]. Relying on manual paper workflows or fragmented spreadsheets often results in delayed incident reporting, data inconsistency, and restricted visibility for administrators.
+Educational and administrative institutions require reliable, centralized systems to log, track, and manage student disciplinary records. Relying on manual paper workflows or fragmented spreadsheets often results in delayed incident reporting, data inconsistency, and restricted visibility for administrators.
 
 The **Discipline Tracking System** addresses this operational challenge by providing a structured web application tailored for institutional record management. Developed using Python and Django, the system centralizes discipline event logging and user access control into a maintainable data architecture.
 
